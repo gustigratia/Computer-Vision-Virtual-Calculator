@@ -28,5 +28,10 @@ The Computer Vision Virtual Calculator project utilizes OpenCV to develop a syst
 # How to Play
 1. Shape your hands like scissors with your index and middle fingers.
 2. Bring your fingers together to press the buttons on the virtual calculator.
+3. Press 'c' to clear
 
 # Preview
+
+
+https://github.com/gustigratia/Computer-Vision-Virtual-Calculator/assets/144533324/976c41ac-64b6-46e7-9f6e-c2647fc16a54
+
